@@ -1,3 +1,6 @@
+<!-- archived-notice -->
+> **This repository is archived.** Archived repositories are not maintained or supported.
+
 # APS Design Automation
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.0.0-blue.svg)](https://nodejs.org/)
